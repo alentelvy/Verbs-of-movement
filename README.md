@@ -1,7 +1,7 @@
 # Verbs-of-movement
 Final project for ALAO/Java courses
 
-The idea of the project and detailed description of the scripts can be found in rapport ALAO.pdf file. 
+The idea of the project and detailed description of the scripts can be found in Rapport ALAO.pdf file. 
 
 1) If you want to test Java files, please, make sure that you have basic CoreNLP package installed. 
 Tutorial can be found here (https://fahadusman.com/getting-started-with-stanford-corenlp/)
